@@ -86,7 +86,7 @@ GEM
     faraday_middleware (0.13.1)
       faraday (>= 0.7.4, < 1.0)
     fastimage (2.1.5)
-    fastlane (2.125.0)
+    fastlane (2.123.0)
       CFPropertyList (>= 2.3, < 4.0.0)
       addressable (>= 2.3, < 3.0.0)
       babosa (>= 1.0.2, < 2.0.0)
@@ -105,7 +105,6 @@ GEM
       google-cloud-storage (>= 1.15.0, < 2.0.0)
       highline (>= 1.7.2, < 2.0.0)
       json (< 3.0.0)
-      jwt (~> 2.1.0)
       mini_magick (~> 4.5.1)
       multi_json
       multi_xml (~> 0.5)
@@ -315,7 +314,7 @@ DEPENDENCIES
   byebug
   coffee-rails (~> 4.1.0)
   dotenv
-  fastlane (>= 2.125.0, < 3.0.0)
+  fastlane (>= 2.123.0, < 3.0.0)
   http_accept_language (~> 2.0.5)
   jquery-rails
   loofah (>= 2.2.3)
