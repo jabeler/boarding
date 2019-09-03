@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 ruby '2.6.3'
 
+gem 'bundler', '>= 2.0.3'
+
 # Updated for CVE-2018-16476: https://nvd.nist.gov/vuln/detail/CVE-2018-16476.
 gem 'activejob', '>= 4.2.11'
 
